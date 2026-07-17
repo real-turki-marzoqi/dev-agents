@@ -1,0 +1,16 @@
+{
+  "name": "dev-team",
+  "version": "0.1.0",
+  "description": "Autonomous multi-agent dev team: clarify, plan with adversarial review, one human approval, then implement, test, review, and document — with a persistent per-project design system.",
+  "author": {
+    "name": "Turki",
+    "email": "agent@era.net.sa"
+  },
+  "keywords": [
+    "agents",
+    "pipeline",
+    "dev-team",
+    "orchestration",
+    "frontend-design"
+  ]
+}

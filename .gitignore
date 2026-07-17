@@ -1,0 +1,6 @@
+# Runtime state — lives in user projects, never in the plugin repo
+tasks/
+memory/
+
+# Local Claude Code settings (personal permissions — never ship)
+.claude/

@@ -1,0 +1,14 @@
+{
+  "name": "dev-team-marketplace",
+  "owner": {
+    "name": "Turki",
+    "email": "agent@era.net.sa"
+  },
+  "plugins": [
+    {
+      "name": "dev-team",
+      "source": "./",
+      "description": "Autonomous multi-agent dev team pipeline with adversarial planning review, quality gates, and a persistent per-project design system."
+    }
+  ]
+}
