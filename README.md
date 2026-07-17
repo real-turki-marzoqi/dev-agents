@@ -32,9 +32,13 @@ idea ──▶ clarify ──▶ plan ⇄ adversarial review ──▶ ★ human
 ## Install
 
 ```
-/plugin marketplace add <your-github-user>/dev-team
+/plugin marketplace add real-turki-marzoqi/dev-agents
 /plugin install dev-team
 ```
+
+Run these inside the Claude Code CLI (`claude` in a terminal). Once
+installed, the plugin is available in every environment — CLI, VS Code
+extension, and desktop app.
 
 Then, once per project:
 
